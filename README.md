@@ -4,4 +4,4 @@ Inspired by a similar initiative by Shagun Sodhani, this repository will hold su
 
 ## List of papers
 
-- Exploring Exploration: Comparing Children with RL Agents in Unified Environments
+- [Exploring Exploration: Comparing Children with RL Agents in Unified Environments](notes/exploring-exploration.md)
