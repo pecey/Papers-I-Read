@@ -1,6 +1,4 @@
-```markdown
-Exploring Exploration
-```
+> Exploring Exploration: Comparing Children with RL Agents in Unified Environments
 
 | Title    | Exploring Exploration: Comparing Children with RL Agents in Unified Environments |
 | -------- | ------------------------------------------------------------ |
