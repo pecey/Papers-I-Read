@@ -6,3 +6,4 @@ Inspired by a similar initiative by Shagun Sodhani, this repository will hold su
 
 - [Exploring Exploration: Comparing Children with RL Agents in Unified Environments](notes/exploring-exploration.md)
 - [Investigating Human Priors for Playing Video Games](notes/investigating-human-priors-for-playing-video-games.md)
+- [Interval timing in deep reinforcement learning agents](notes/interval-timing-in-deep-rl-agents.md)
